@@ -1,22 +1,28 @@
-# Hi 👋, I'm MansxDev
-
-A passionate developer building cool things.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=$+whoami;MansxDev+-+Software+Engineer;$+cat+skills.txt;Python+|+TypeScript+|+Linux+|+Docker;$+git+status;Building+cool+projects..." alt="Terminal Typing SVG" />
+</p>
 
 ---
 
-### 🚀 About Me
+# Hi 👋, I'm MansxDev
 
-- 💻 **Role:** Software Engineer
-- 🛠️ **Tech:** Python, JavaScript, TypeScript, Linux, Git, Docker
-- 🎯 **Focus:** Backend & Automation Tools
+```bash
+mansxdev@github:~$ neofetch
+```
+```text
+  ███╗   ███╗██████╗  MansxDev@OS
+  ████╗ ████║██╔══██╗ ------------
+  ██╔████╔██║██║  ██║ OS: Linux / Arch
+  ██║╚██╔╝██║██║  ██║ Host: Terminal
+  ██║ ╚═╝ ██║██████╔╝ Shell: zsh
+  ╚═╝     ╚═╝╚═════╝  Role: Software Engineer
+```
 
 ---
 
 ### ⏳ Coding Stats & Activity
 
 [![Wakatime](https://wakatime.com/badge/user/MansxDev.svg)](https://wakatime.com/@MansxDev)
-
-> 💡 **Tips jam ngoding otomatis:** Daftar di [WakaTime](https://wakatime.com), install plugin di VS Code/IDE, lalu paste badge WakaTime di sini.
 
 ---
 
