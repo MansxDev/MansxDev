@@ -32,8 +32,8 @@ mansxdev@github:~$ neofetch
 | :--- | :--- | :--- | :--- |
 | **wa-bot** | WhatsApp Bot Application | `JavaScript`, `Node.js` | [Repo](https://github.com/MansxDev/wa-bot) |
 | **Project-website-bisnis-react-** | Business Website Application | `JavaScript`, `React` | [Repo](https://github.com/MansxDev/Project-website-bisnis-react-) |
-| **my-portfolio** | Personal Portfolio Website | `JavaScript`, `HTML`, `CSS` | [Repo](https://github.com/MansxDev/my-portfolio) |
-| **image-hosting** | Premium Image Hosting Service with Admin Dashboard | `HTML`, `JavaScript` | [Repo](https://github.com/MansxDev/image-hosting) |
+| **my-portfolio** | Personal Portfolio Website | `JavaScript`, `CSS`, `HTML` | [Repo](https://github.com/MansxDev/my-portfolio) · [Live Demo](https://my-portfolio-three-azure-32.vercel.app) |
+| **image-hosting** | Premium Image Hosting Service with Admin Dashboard | `HTML`, `JavaScript`, `CSS` | [Repo](https://github.com/MansxDev/image-hosting) |
 
 ---
 
