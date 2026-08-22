@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=$+whoami;MansxDev+-+Software+Engineer;$+cat+skills.txt;Python+|+TypeScript+|+Linux+|+Docker;$+git+status;Building+cool+projects..." alt="Terminal Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=$+whoami;MansxDev+-+Web+%26+Bot+Developer;$+cat+skills.txt;JavaScript+|+HTML+|+Node.js;$+git+status;Building+cool+projects..." alt="Terminal Typing SVG" />
 </p>
 
 ---
@@ -12,10 +12,10 @@ mansxdev@github:~$ neofetch
 ```text
   ███╗   ███╗██████╗  MansxDev@OS
   ████╗ ████║██╔══██╗ ------------
-  ██╔████╔██║██║  ██║ OS: Linux / Arch
-  ██║╚██╔╝██║██║  ██║ Host: Terminal
-  ██║ ╚═╝ ██║██████╔╝ Shell: zsh
-  ╚═╝     ╚═╝╚═════╝  Role: Software Engineer
+  ██╔████╔██║██║  ██║ Role: Web & Bot Developer
+  ██║╚██╔╝██║██║  ██║ Stack: JavaScript, Node.js, HTML, CSS
+  ██║ ╚═╝ ██║██████╔╝ Focus: WhatsApp Bots & Web Development
+  ╚═╝     ╚═╝╚═════╝  Location: Indonesia
 ```
 
 ---
@@ -26,33 +26,22 @@ mansxdev@github:~$ neofetch
 
 ---
 
-### 🛠️ Tech Stack & Experience
-
-| Technology | Experience | Focus / Use Case |
-| :--- | :--- | :--- |
-| **Python** | 2+ Years | Backend, Automation, Scripting |
-| **JavaScript / TypeScript** | 1.5+ Years | Web Development, Node.js API |
-| **Linux & Bash** | 2+ Years | Server Administration, Shell Scripting |
-| **Docker** | 1+ Year | Containerization, Deployment |
-| **Git & GitHub** | 2+ Years | Version Control, CI/CD |
-
----
-
-### 📂 Completed Projects
+### 📂 Real Projects
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project Alpha** | REST API automation tool for data processing | `Python`, `FastAPI`, `Docker` | [Repo](https://github.com/MansxDev) |
-| **Project Beta** | Interactive web dashboard for monitoring | `TypeScript`, `React`, `Tailwind` | [Repo](https://github.com/MansxDev) |
-| **Project Gamma** | CLI tool for system maintenance | `Bash`, `Python` | [Repo](https://github.com/MansxDev) |
+| **wa-bot** | WhatsApp Bot Application | `JavaScript`, `Node.js` | [Repo](https://github.com/MansxDev/wa-bot) |
+| **Project-website-bisnis-react-** | Business Website Application | `JavaScript`, `React` | [Repo](https://github.com/MansxDev/Project-website-bisnis-react-) |
+| **my-portfolio** | Personal Portfolio Website | `JavaScript`, `HTML`, `CSS` | [Repo](https://github.com/MansxDev/my-portfolio) |
+| **image-hosting** | Premium Image Hosting Service with Admin Dashboard | `HTML`, `JavaScript` | [Repo](https://github.com/MansxDev/image-hosting) |
 
 ---
 
-### 🛠️ Badges
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
